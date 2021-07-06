@@ -46,3 +46,38 @@ h1 {
     width: 80%;
     padding: 0 5%;
 }
+
+.about{
+    display: flex;
+    background-image: url(images/about_bc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-img{
+    width: 50%;
+}
+
+.about-img img{
+    width: 75%;
+    padding: 0 10%;
+}
+
+.about-text {
+    width: 50%;
+    margin-top: 80px;
+    padding: 0 5%;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.about-p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgb(73, 65, 64);
+}
